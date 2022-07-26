@@ -2,4 +2,6 @@
 CAKD7.
 June 2022 - Dec 2023.
 
-course files and personal study
+  course materials and personal study
+
+  course materials credit: github.com./bnv20/cakd7
