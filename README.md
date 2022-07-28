@@ -4,4 +4,4 @@ June 2022 - Dec 2023.
 
   course materials and personal study
 
-  course materials credit: github.com/bnv20/cakd7
+  course materials credit: @bnv20
